@@ -3,6 +3,7 @@
 A full-stack fashion e-commerce web application built using React, Node.js (Express), and MySQL. The platform provides a complete online shopping experience with secure authentication, product browsing, cart management, order processing, and online payments via Stripe. An admin dashboard is included for managing products and orders.
 
 🚀 Features
+
 👤 User Features
 
 User registration and authentication (login/signup)
