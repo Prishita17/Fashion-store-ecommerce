@@ -157,6 +157,7 @@ Register Page
 <img width="299" height="624" alt="Register Page" src="https://github.com/user-attachments/assets/92bf2715-2050-4600-9768-54a75c34b4c9" />
 
 Admin Add new Products
+
 <img width="830" height="410" alt="Screenshot 2026-01-20 at 7 40 58 PM" src="https://github.com/user-attachments/assets/b9bc8f02-af75-416b-b3b5-0ff8c4a9c049" />
 
 Order Details & Product in Order
@@ -168,16 +169,21 @@ Order List Page
 <img width="827" height="186" alt="Screenshot 2026-01-20 at 10 04 19 PM" src="https://github.com/user-attachments/assets/1fe5ab16-c1a9-45d6-ad36-977887c66d23" />
 
 Past Orders
+
 <img width="831" height="336" alt="Screenshot 2026-01-20 at 10 05 36 PM" src="https://github.com/user-attachments/assets/00783d02-7d9a-4f31-be85-e481204353e6" />
 
 Customer Past Orders
+
 <img width="828" height="218" alt="Screenshot 2026-01-20 at 10 07 20 PM" src="https://github.com/user-attachments/assets/83231247-861b-4f01-b5ec-e8eebfb751b1" />
 
 Customer Product List Page
+
 <img width="831" height="403" alt="Screenshot 2026-01-20 at 10 08 36 PM" src="https://github.com/user-attachments/assets/c88ebbdf-27dc-4481-b8ed-08886bf3e72f" />
 
 Shopping Cart
+
 <img width="832" height="121" alt="Screenshot 2026-01-20 at 10 09 44 PM" src="https://github.com/user-attachments/assets/586847d4-e542-46ab-9613-4ef35c48d05e" />
+
 
 
 ## Acknowledgement
