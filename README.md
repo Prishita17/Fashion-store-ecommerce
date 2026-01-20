@@ -146,11 +146,15 @@ Real-world e-commerce workflow
 
 Clean project structure and scalability
 
+## Acknowledgement
+
+This project was developed for learning purposes and is inspired by open-source
+e-commerce projects available on GitHub
+
+
 👩‍💻 Author
 
 Prishita Singh
 GitHub: Prishita17
 
-📄 License
 
-This project is open-source and available under the MIT License.
