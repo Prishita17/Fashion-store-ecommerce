@@ -167,7 +167,7 @@ Order Details & Product in Order
 
 Order List Page
 
-<img width="827" height="186" alt="Screenshot 2026-01-20 at 10 04 19 PM" src="https://github.com/user-attachments/assets/1fe5ab16-c1a9-45d6-ad36-977887c66d23" />
+<img width="827" height="186" alt="Order list" src="https://github.com/user-attachments/assets/201f10d4-c7b2-4f34-90e5-4848143cbb7a" />
 
 
 Customer Past Orders
