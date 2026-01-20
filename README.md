@@ -168,13 +168,11 @@ Order List Page
 
 <img width="827" height="186" alt="Screenshot 2026-01-20 at 10 04 19 PM" src="https://github.com/user-attachments/assets/1fe5ab16-c1a9-45d6-ad36-977887c66d23" />
 
-Past Orders
-
-<img width="831" height="336" alt="Screenshot 2026-01-20 at 10 05 36 PM" src="https://github.com/user-attachments/assets/00783d02-7d9a-4f31-be85-e481204353e6" />
 
 Customer Past Orders
 
-<img width="828" height="218" alt="Screenshot 2026-01-20 at 10 07 20 PM" src="https://github.com/user-attachments/assets/83231247-861b-4f01-b5ec-e8eebfb751b1" />
+<img width="828" height="335" alt="Screenshot 2026-01-20 at 10 40 10 PM" src="https://github.com/user-attachments/assets/85903992-32a5-427f-8d2f-958c29baff9a" />
+
 
 Customer Product List Page
 
