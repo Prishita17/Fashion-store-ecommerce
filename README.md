@@ -162,7 +162,8 @@ Admin Add new Products
 
 Order Details & Product in Order
 
-<img width="831" height="409" alt="Screenshot 2026-01-20 at 10 02 30 PM" src="https://github.com/user-attachments/assets/e32ecdf6-d780-4260-811a-a1d466452bbf" />
+<img width="831" height="409" alt="order Deta" src="https://github.com/user-attachments/assets/c77a2c24-39b8-45e8-9d44-ca7a143021c4" />
+
 
 Order List Page
 
