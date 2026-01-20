@@ -146,6 +146,13 @@ Real-world e-commerce workflow
 
 Clean project structure and scalability
 
+
+Application Screen 
+
+<img width="334" height="565" alt="Login" src="https://github.com/user-attachments/assets/2363165e-a5cf-44d4-9b12-f2a599efa7e4" />
+
+
+
 ## Acknowledgement
 
 This project was developed for learning purposes and is inspired by open-source
